@@ -77,10 +77,6 @@ attack['age'] = pd.cut(attack['age'], bins=ranges, labels=labels)
 attack['age'].head()
 
 
-"""TRAINING
-
-"""
-
 sns.countplot(attack.age)
 plt.show()
 
