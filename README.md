@@ -1,3 +1,3 @@
 # Heart-Attack-Prediction
 
-##TABLE OF CONTENTS
+## TABLE OF CONTENTS
